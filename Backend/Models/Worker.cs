@@ -10,6 +10,7 @@ public class Worker
     [MaxLength(100)]
     public string Email { get; set; }
     public string Password { get; set; }
+    public string AuthToken { get; set; }
     public Company AssignedCompany { get; set; }
     public List<Project> AssignedProjects { get; set; }
 }
