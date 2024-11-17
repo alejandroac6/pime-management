@@ -115,3 +115,4 @@ C:\Users\aleja\OneDrive\Escritorio\Proyectos - Alejandro\pime-management\Backend
 C:\Users\aleja\OneDrive\Escritorio\Proyectos - Alejandro\pime-management\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\aleja\OneDrive\Escritorio\Proyectos - Alejandro\pime-management\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\aleja\OneDrive\Escritorio\Proyectos - Alejandro\pime-management\Backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\aleja\OneDrive\Escritorio\Proyectos - Alejandro\pime-management\Backend\bin\Debug\net8.0\BCrypt.Net-Next.dll

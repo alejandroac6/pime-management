@@ -1,5 +1,6 @@
 using Backend.Data;
 using Backend.Services;
+using Backend.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -17,7 +18,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<PimeContext>(options =>
 options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-// builder.Services.AddScoped<ICompanyService,CompanyService>();
+builder.Services.AddScoped<ICompanyService,CompanyService>();
 
 var app = builder.Build();
 
